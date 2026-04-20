@@ -181,7 +181,10 @@
       margin-bottom: 14px;
     }
  
-    .icon-wrap svg { width: 28px; height: 28px; }
+    .icon-wrap img {
+      width: 28px;
+      height: 28px;
+    }
  
     .card-title {
       font-size: 14px;

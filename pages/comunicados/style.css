@@ -255,17 +255,6 @@
       font-weight: 500;
     }
  
-    .attachment {
-      margin: 0 1rem 0.75rem;
-      background: var(--bg-light);
-      border-radius: 8px;
-      border: 1px solid var(--border-color);
-      padding: 0.625rem 0.875rem;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    }
- 
     .attach-icon {
       font-size: 22px;
       flex-shrink: 0;
